@@ -1,7 +1,7 @@
 
 import { createRoot } from 'react-dom/client'
-import Home from './Home'
+import Card from './Card'
 
 createRoot(document.getElementById('root')).render(
- <Home />
+  <Card />
 )
