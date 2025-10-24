@@ -1,5 +1,19 @@
+.college-contator{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background: #DDA853;
+}
+.college-logo{
+    width: 50px;
+    height: 50px;
+    padding-top: 10px;
+    color: #27548A;
+}
 .headline{
-    color: #4169e1;
+    color: #27548A;
+    display: unset;
+    padding-left: 20px;
 }
 .student-contanor{
 
@@ -12,7 +26,7 @@
 
 .student-card{
     border-radius: 20px;
-    border: 2px solid #4169e1;
+    border: 3px solid #DDA853;
     padding: 20px;
     margin: 10px;
     width: 400px;
@@ -20,7 +34,7 @@
 
 }
 .student-info-icon{
-    color:#4169e1;
+    color:#183B4E;
     width: 20px;
     height: 20px;
 }
@@ -32,8 +46,14 @@
     right: 10px
 }
 .student-name{
-    color:#9494ec
+    color:#27548A;
 }
 .student-info{
-    color:#9696b0
+    color:#27548A
+}
+.descripton{
+    color:#27548A;
+     display: flex;
+    text-align: center;
+    justify-content: center;
 }
