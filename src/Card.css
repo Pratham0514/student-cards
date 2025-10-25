@@ -29,8 +29,9 @@
     border: 3px solid #DDA853;
     padding: 20px;
     margin: 10px;
-    width: 400px;
+    width: 350px;
     position: relative;
+    background: #e2eaef;
 
 }
 .student-info-icon{
@@ -56,4 +57,8 @@
      display: flex;
     text-align: center;
     justify-content: center;
+}
+.sub-headline{
+    text-align: center;
+    color: #27548A
 }
