@@ -5,8 +5,7 @@
     margin: 10px;
     width: 350px;
     position: relative;
-    background: #e2eaef;
-    
+    background: #e2eaef; 
     transition: 0.3s ease;
 }
 
@@ -33,14 +32,12 @@
 }
 
 .student-name {
-    color: #27548A;
     font-size: 1.4rem;
     font-weight: bold;
     margin-bottom: 10px;
 }
 
 .student-info {
-    color: #27548A;
     font-size: 1rem;
     line-height: 1.4;
 }

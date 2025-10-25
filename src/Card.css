@@ -2,15 +2,15 @@
     display: flex;
     text-align: center;
     justify-content: center;
-    background: #DDA853;
+  
 }
 .college-logo{
     width: 50px;
     height: 50px;
     padding-top: 10px;
-    color: #27548A;
+
 }
-.headline{
+.Name_headline{
     color: #27548A;
     display: unset;
     padding-left: 20px;
