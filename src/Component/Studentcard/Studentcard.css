@@ -1,0 +1,46 @@
+.student-card {
+    border-radius: 20px;
+    border: 3px solid #DDA853;
+    padding: 20px;
+    margin: 10px;
+    width: 350px;
+    position: relative;
+    background: #e2eaef;
+    
+    transition: 0.3s ease;
+}
+
+.student-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.student-info-icon {
+    color: #183B4E;
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+}
+
+.student-gender {
+    width: 130px;
+    height: 150px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.student-name {
+    color: #27548A;
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.student-info {
+    color: #27548A;
+    font-size: 1rem;
+    line-height: 1.4;
+}
