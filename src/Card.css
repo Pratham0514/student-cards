@@ -1,8 +1,7 @@
 .college-contator{
     display: flex;
     text-align: center;
-    justify-content: center;
-  
+    justify-content: center;  
 }
 .college-logo{
     width: 50px;

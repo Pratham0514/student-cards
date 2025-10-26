@@ -3,12 +3,12 @@ import './Card.css'
 import Studentcard from './Component/Studentcard/Studentcard' 
 import {ITEMS} from './Config/Students'
 import {NAME_HEADLINE , COLLEGE_DESCRIPTION,SUB_HEADLINE,THIRD_COLOR,PRIMARY_COLOR, SECONDARY_COLOR } from './Config/App'
- import man from './images/man.png'
+import logo from './images/logo.jpg'
 function Card() {
   return (
     <div>
       <div className='college-contator' style={{backgroundColor:THIRD_COLOR}}>
-      <img src={man} alt="college logo" className='college-logo'/>
+      <img src={logo} alt="college logo" className='college-logo'/>
       <h1 className='Name_headline' style={{color:SECONDARY_COLOR}}>{NAME_HEADLINE}</h1>
       </div>
       {COLLEGE_DESCRIPTION ? <p className='descripton'>{COLLEGE_DESCRIPTION}</p> : null}

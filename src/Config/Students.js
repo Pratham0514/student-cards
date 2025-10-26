@@ -1,34 +1,53 @@
 const ITEMS = [
   { 
-    name: "qqqq", 
-    email: "qqqq@gmail.com", 
+    name: "Pratham", 
+    email: "Pratham@gmail.com", 
     gender: "male", 
     city: "cairo", 
   },
   { 
-    name: "www", 
-    email: "www@gmail.com", 
+    name: "shivanshi", 
+    email: "shivanshi@gmail.com", 
     gender: "female", 
     city: "cairo", 
   },
   { 
-    name: "eee", 
-    email: "eee@gmail.com", 
+    name: "Sejal", 
+    email: "Sejal@gmail.com", 
     gender: "female", 
     city: "cairo", 
   },
   { 
-    name: "rrr", 
-    email: "rrr@gmail.com", 
+    name: "Shivansh", 
+    email: "Shivansh@gmail.com", 
     gender: "male", 
     city: "cairo", 
   },
   { 
-    name: "ttt", 
+    name: "madhuri", 
     email: "ttt@gmail.com", 
     gender: "female", 
     city: "cairo",                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-  }
+  },
+  {
+    name: "Manoj",
+    email: "Manoj@gmail.com",
+    gender: "male",
+    city: "cairo",
+  },
+  {
+    name: "Paresh",
+    email: "Paresh@gmail.com",
+    gender: "male",
+    city: "cairo",
+  },
+  {
+    name: "Shlok",
+    email: "Shlok@gmail.com",
+    gender: "male",
+    city: "cairo",
+  },
+  
 ];
 
 export { ITEMS };
